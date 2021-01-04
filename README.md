@@ -1,3 +1,7 @@
+Used the code for reference
+Allows any tflite model to be imported and used for processing the images.
+
+
 # Cartoonizer with TensorFlow Lite
 
 This is the GitHub repository for an end-to-end tutorial on **[How to Create a Cartoonizer with TensorFlow Lite](https://blog.tensorflow.org/2020/09/how-to-create-cartoonizer-with-tf-lite.html)**, published on the official TensorFlow blog. The tutorial demonstrates the steps for TFLite model saving, conversion and all the way up to model deployment on an Android App. It's one of a series of the [End-to-End TensorFlow Lite Tutorials](https://github.com/ml-gde/e2e-tflite-tutorials). See the full list of TensorFlow Lite samples and learning resources on [awesome-tflite](https://github.com/margaretmz/awesome-tflite). 
